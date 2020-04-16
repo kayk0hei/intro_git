@@ -11,3 +11,5 @@ Gitの練習で
 .git add
 
 .git commit
+
+.git remove
