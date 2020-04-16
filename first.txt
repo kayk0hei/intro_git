@@ -5,3 +5,9 @@ Gitの練習で
 
 
 2つめだぞ
+
+
+
+.git add
+
+.git commit
