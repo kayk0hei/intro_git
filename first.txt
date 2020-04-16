@@ -16,3 +16,4 @@ Gitの練習で
 
 .git status
 
+.git diff
