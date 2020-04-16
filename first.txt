@@ -13,3 +13,6 @@ Gitの練習で
 .git commit
 
 .git remove
+
+.git status
+
