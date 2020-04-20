@@ -17,3 +17,5 @@ Gitの練習で
 .git status
 
 .git diff
+
+4/20追記
