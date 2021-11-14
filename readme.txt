@@ -7,3 +7,5 @@ test
 .git commit
 
 .git remove
+.git status
+
