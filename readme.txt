@@ -5,3 +5,5 @@ test
 
 .git add
 .git commit
+
+.git remove
