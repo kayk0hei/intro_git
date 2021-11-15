@@ -8,4 +8,4 @@ test
 
 .git remove
 .git status
-.git diff
+.git diff change feature
