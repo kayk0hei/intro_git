@@ -12,3 +12,4 @@ test
 
 .git merge
 .git merge2
+.git merge3
