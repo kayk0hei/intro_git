@@ -9,3 +9,5 @@ test
 .git remove
 .git status
 .git diff
+
+.git merge
