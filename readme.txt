@@ -11,3 +11,4 @@ test
 .git diff
 
 .git merge
+.git merge2
